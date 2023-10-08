@@ -7,12 +7,11 @@ Portable virtual pets
 title: Use Case
 ---
 flowchart LR
-    A(virtpet release) -->|Run| B[virtpet.py]
-    B -->|create instance| C1[%PET_NAME%.py]
-    C1 --- D(portable Pet\nwith self-saved data between sessions)
+    A[virtpet.py] -->|create instance| B1[%PET_NAME%.py\nportable script with self-saved data between sessions]
 ```
 1. Run `virtpet.py`
-2. Run created `%pet_name%.py`
+2. Choose your pet and give it a name.
+3. Run created `%pet_name%.py`
 ## Dependencies
 - [keyboard](https://pypi.org/project/keyboard)
 - ~~[consoledraw](https://github.com/Matthias1590/ConsoleDraw)~~
