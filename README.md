@@ -13,7 +13,7 @@ flowchart LR
 ```
 1. Install dependencies
 `*script to install dependencies*`
-2. Run `virtpet.py` on Python interpreter
+2. Run `virtpet.py`
 3. Run created `%pet_name%.py`
 ## Supported OS
 **Windows, Linux & MacOS**
