@@ -14,6 +14,9 @@ flowchart LR
 1. Run `virtpet.py`
 2. Run created `%pet_name%.py`
 ## Dependencies
-- ~~consoledraw~~
+- [keyboard](https://pypi.org/project/keyboard)
+- ~~[consoledraw](https://github.com/Matthias1590/ConsoleDraw)~~
+- ~~[inquirer](https://pypi.org/project/inquirer)~~
+- ~~[easy-ansi](https://pypi.org/project/easy-ansi)~~
 ## Supported OS
 **Windows, Linux & MacOS**
