@@ -1,6 +1,8 @@
 # virtpet
 ## About
 Portable virtual pets
+### Features
+-
 ## Usage
 ```mermaid
 ---
