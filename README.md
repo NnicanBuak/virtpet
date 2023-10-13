@@ -1,4 +1,6 @@
 # virtpet
+![1](https://github.com/NnicanBuak/virtpet/assets/89499782/608aeb4b-4dfa-445c-ab17-99dd3e4abc3e)
+![Снимок экрана 2023-10-08 032129](https://github.com/NnicanBuak/virtpet/assets/89499782/57def5b6-ee99-4fad-a5de-3aaa8a445255)
 ## About
 Portable virtual pets
 ### Features
